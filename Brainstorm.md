@@ -1,5 +1,6 @@
 - [Idea](#idea)
 - [Main functionalities](#main-functionalities)
+- [Personas](#personas)
 
 ## Idea
 
@@ -19,3 +20,5 @@ absence or disability would have a garden maintained by other person in cons par
 > identiification user garden or garden praetor
 -   Mail information system
 > receive mail for confirm your inscription
+
+## Personas
