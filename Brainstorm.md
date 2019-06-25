@@ -1,6 +1,7 @@
 - [Idea](#idea)
 - [Main functionalities](#main-functionalities)
 - [Personas](#personas)
+* [Cecilia - user](#Cecilia---user)
 
 ## Idea
 
@@ -22,3 +23,6 @@ absence or disability would have a garden maintained by other person in cons par
 > receive mail for confirm your inscription
 
 ## Personas
+
+### Cecilia - user
+![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/Cecilia.svg)
