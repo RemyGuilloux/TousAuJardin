@@ -2,6 +2,9 @@
 - [Main functionalities](#main-functionalities)
 - [Personas](#personas)
 * [Cecilia - user](#Cecilia---user)
+* [ivon - user](#ivon---user)
+* [marc - user](#marc---user)
+* [sylviane - user](#sylviane---user)
 
 ## Idea
 
@@ -26,3 +29,9 @@ absence or disability would have a garden maintained by other person in cons par
 
 ### Cecilia - user
 ![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/Cecilia.svg)
+### ivon - user
+![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/ivon80ans.svg)
+### marc - user
+![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/marc60ans.svg)
+### sylviane - user
+![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/sylviane.svg)
