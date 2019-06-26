@@ -24,6 +24,21 @@ absence or disability would have a garden maintained by other person in cons par
 > identiification user garden or garden praetor
 -   Mail information system
 > receive mail for confirm your inscription
+- créer son account
+- supprimer son accout
+- s'autentifier
+- s'enregistrer
+- rechercher un service
+- rechercher un jardin( toute la france/region, departement, categories)
+- bouton de recherche
+- publier une annonce
+- contact
+- FAQ
+- Bandeau défilant accès premium
+- compte gratuit ou premium
+- misen en relation
+- Avis et notes
+
 
 ## Personas
 
