@@ -68,7 +68,7 @@ http://trocjardin.com/
 No creation of account requested, collaborative site with diffusion of anonces to share, exchange, promote the local actors, header which is the summary of the site, (Reception, service, announcements, mission, etc), different input according to the service (I give, I propose, I search, event exit, meetings, collective movement association, producers and artisans .
  
  + So it's a collaborative site to promote local actors, small producers and to share different ads to share
- - The site does not guide the user that the site works, no registration proposed, it seems that it is a pub site for artists
+ - The site does not guide the user that the site works, no registration proposed, it seems that it is a pub site for craftwork
 
 ## My application
 https://Partageons-un-Jardin.com/
