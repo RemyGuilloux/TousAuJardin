@@ -44,7 +44,7 @@ absence or disability would have a garden maintained by other person in cons par
 ### Cecilia - user
 ![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/Cecilia.svg)
 ### ivon - user
-![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/ivon80ans.svg)
+![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/Ivon.svg)
 ### marc - user
 ![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/Marc.svg)
 ### sylviane - user
