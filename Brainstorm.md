@@ -44,13 +44,13 @@ This part ennumer all the functionalities of the site, it is the first fonctiona
 ## Personas
 
 ### Cecilia - user
-![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/1.svg)
+![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/img/1.svg)
 ### ivon - user
-![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/Ivon.svg)
+![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/img/Ivon.svg)
 ### marc - user
-![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/3.svg)
+![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/img/3.svg)
 ### sylviane - user
-![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/4.svg)
+![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/img/4.svg)
 
 ## Benchmarck 
 
