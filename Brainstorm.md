@@ -26,7 +26,7 @@ absence or disability would have a garden maintained by other person in cons par
 -   Mail information system
 > receive mail for confirm your inscription
 - créer son account
-- supprimer son accout
+- supprimer son account
 - s'autentifier
 - s'enregistrer
 - rechercher un service
