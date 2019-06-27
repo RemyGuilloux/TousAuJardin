@@ -5,6 +5,7 @@
 * [ivon - user](#ivon---user)
 * [marc - user](#marc---user)
 * [sylviane - user](#sylviane---user)
+- [benchmarck ](#benchmarck )
 
 ## Idea
 
@@ -50,3 +51,16 @@ absence or disability would have a garden maintained by other person in cons par
 ![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/florent60ans.svg)
 ### sylviane - user
 ![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/sylviane.svg)
+
+## benchmarck 
+https://www.echange-service.com/
+Site d'echange de service, un formulaire de recherche dans quel endroit on souhaite trouver le service, bandeau défilant avec les nouveau profil, plusieur input en fonction des services tiers(aide à la personne, beauté, bricolage, cours, etc), un bandeau defilant avec les partenaires publicitaire, 2 input compte gratuit, compte premium avec plus d'advantage sur le compte premieum( Gratuit: l'annoce max sur 60jour, Premium: Profil mis en avant dans les résultat pour les service rechercher ou proposer, 25annonce simultanéeset mises en avant jusqu'a 10 images par seconde, 4 inputs avec Créer votre profil, Publiez vos annonce, mise en relation, Aviset Notes.
+
+Ils mettent bien que l'inscription est gratuite, l'aspect visuel est sympa et simple , plus de fonctionalité si on prend le compte premium
+
+http://trocjardin.com/
+ Pas de créationn de compte demandé, site collaboratif avec diffusion d'anonces afin de partager, echanger, promouvoir les acteurs locaux,header qui est le sommaire du site, (Accueil, service, annonces, mission, etc), different input en fonction du service( je donne, je propose, je recherche, evenement sortie, rencotres, mouvement collectifs association, producteurs et artisans de terrorir).
+ 
+ Donc c'est un site collaboratif pour promouvoir les acteurs locaux, les petit producteur  et pour partager différente annonce pour partager
+ 
+
