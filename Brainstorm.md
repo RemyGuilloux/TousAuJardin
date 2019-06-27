@@ -19,6 +19,8 @@ absence or disability would have a garden maintained by other person in cons par
 
 ## Main functionalities
 
+This part ennumer all the functionalities of the site, it is the first fonctionallité found, full of other will follow thereafter
+
 -   manage garder
 > select, find and change the garden. 
 -   sing in sing out
