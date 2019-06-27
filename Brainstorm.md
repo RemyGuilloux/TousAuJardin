@@ -33,7 +33,6 @@ This part ennumer all the functionalities of the site, it is the first fonctiona
 - register
 - find a service
 - search a garden (all France / region, department, categories)
-- search button
 - post an ad
 - contact
 - FAQ
