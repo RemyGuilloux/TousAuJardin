@@ -42,7 +42,7 @@ absence or disability would have a garden maintained by other person in cons par
 ## Personas
 
 ### Cecilia - user
-![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/Cecilia.svg)
+![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/1.svg)
 ### ivon - user
 ![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/Ivon.svg)
 ### marc - user
