@@ -25,20 +25,18 @@ absence or disability would have a garden maintained by other person in cons par
 > identiification user garden or garden praetor
 -   Mail information system
 > receive mail for confirm your inscription
-- créer son account
-- supprimer son account
-- s'autentifier
-- s'enregistrer
-- rechercher un service
-- rechercher un jardin( toute la france/region, departement, categories)
-- bouton de recherche
-- publier une annonce
+- create an account
+- delete his account
+- to authenticate
+- register
+- find a service
+- search a garden (all France / region, department, categories)
+- search button
+- post an ad
 - contact
 - FAQ
-- Bandeau défilant accès premium
-- compte gratuit ou premium
-- misen en relation
-- Avis et notes
+- related
+- Reviews and ratings
 
 
 ## Personas
@@ -52,15 +50,23 @@ absence or disability would have a garden maintained by other person in cons par
 ### sylviane - user
 ![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/sylviane.svg)
 
-## benchmarck 
-https://www.echange-service.com/
-Site d'echange de service, un formulaire de recherche dans quel endroit on souhaite trouver le service, bandeau défilant avec les nouveau profil, plusieur input en fonction des services tiers(aide à la personne, beauté, bricolage, cours, etc), un bandeau defilant avec les partenaires publicitaire, 2 input compte gratuit, compte premium avec plus d'advantage sur le compte premieum( Gratuit: l'annoce max sur 60jour, Premium: Profil mis en avant dans les résultat pour les service rechercher ou proposer, 25annonce simultanéeset mises en avant jusqu'a 10 images par seconde, 4 inputs avec Créer votre profil, Publiez vos annonce, mise en relation, Aviset Notes.
+## Benchmarck 
 
-Ils mettent bien que l'inscription est gratuite, l'aspect visuel est sympa et simple , plus de fonctionalité si on prend le compte premium
+https://www.echange-service.com/
+
+Service exchange site, a search form in which place you want to find the service, banner scrolling with the new profile, several input according to third-party services (personal assistance, beauty, DIY, courses, etc.), a bandeau running with advertising partners, 2 input free account, premium account with more advantage on the premieum account (Free: the max annoyance on 60day, Premium: Profile highlighted in the results for service search or propose, 25annonce simultaneous and showcased up to 10 frames per second, 4 inputs with Create your profile, Post your ad, connect, Avis and Notes.
+
+They put that the registration is free, the visual aspect is nice and simple, more functionality if you take the premium account
 
 http://trocjardin.com/
- Pas de créationn de compte demandé, site collaboratif avec diffusion d'anonces afin de partager, echanger, promouvoir les acteurs locaux,header qui est le sommaire du site, (Accueil, service, annonces, mission, etc), different input en fonction du service( je donne, je propose, je recherche, evenement sortie, rencotres, mouvement collectifs association, producteurs et artisans de terrorir).
+
+No creation of account requested, collaborative site with diffusion of anonces to share, exchange, promote the local actors, header which is the summary of the site, (Reception, service, announcements, mission, etc), different input according to the service (I give, I propose, I search, event exit, meetings, collective movement association, producers and artisans .
+ 
+  So it's a collaborative site to promote local actors, small producers and to share different ads to share
+  
+  
+  
+My application will be better because first, it does not exist, no premium account or free, all free, updating the site every hour
  
- Donc c'est un site collaboratif pour promouvoir les acteurs locaux, les petit producteur  et pour partager différente annonce pour partager
  
 
