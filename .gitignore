@@ -13,11 +13,7 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 
-### SASS ###
-.sass-cache/
-*.css.map
-*.sass.map
-*.scss.map
+
 
 ### Node ### 
 node_modules/
