@@ -50,14 +50,14 @@ This part ennumer all the functionalities of the site, it is the first fonctiona
 
 ## Personas
 
-### Cecilia - user
+### Cecilia - gardener
 ![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/img/1.svg)
-### ivon - user
+### ivon - proprietor
 ![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/img/Ivon.svg)
-### marc - user
+### marc - gardener and proprietor
 ![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/img/3.svg)
-### sylviane - user
-![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/img/4.svg)
+### rémy - admin
+![](https://github.com/RemyGuilloux/TousAuJardin/blob/master/img/rem.svg)
 
 ## Benchmarck 
 
