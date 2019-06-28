@@ -43,7 +43,7 @@ This part ennumer all the functionalities of the site, it is the first fonctiona
 - headband with number of members, number of garden advertisements, number of services offered
 - private messaging
 - settings
-- watch yours service sor garden
+- watch yours service or garden
 - video tutorial gardening link
 - good plan seed, purchase material
 
