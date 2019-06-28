@@ -39,7 +39,7 @@ This part ennumer all the functionalities of the site, it is the first fonctiona
 - chat in line
 - chat boot 
 - localisation person, ip adress
-- responsive( versio mobile light)
+- responsive( version mobile light)
 - headband with number of members, number of garden advertisements, number of services offered
 - private messaging
 - settings
