@@ -22,15 +22,11 @@ absence or disability would have a garden maintained by other person in cons par
 
 This part ennumer all the functionalities of the site, it is the first fonctionallité found, full of other will follow thereafter
 
--   manage garder
-> select, find and change the garden. 
--   sing in sing out
-> identiification user garden or garden praetor
--   Mail information system
-> receive mail for confirm your inscription
+
+- sing in sing out
+- receive mail for confirm your inscription
 - create an account
 - delete his account
-- authenticfication
 - register
 - find a service
 - search a garden (all France / region, department, categories)
@@ -39,6 +35,17 @@ This part ennumer all the functionalities of the site, it is the first fonctiona
 - FAQ
 - related
 - Reviews and ratings
+- members connect/disconect
+- chat in line
+- chat boot 
+- localisation person, ip adress
+- responsive( versio mobile light)
+- headband with number of members, number of garden advertisements, number of services offered
+- private messaging
+- settings
+- watch yours service sor garden
+- video tutorial gardening link
+- good plan seed, purchase material
 
 
 ## Personas
